@@ -11,7 +11,7 @@ More information can be found in my [Google Scholar Citations](https://scholar.g
 ## Directory structure
 <img src="./Imgs/fig2.png" width="200px"/>
 
-**Fig.2.** Directory structure. There are three folders and one main.py files in UMC2FF_GRSL-master.
+**Fig.2.** Directory structure. There are three folders and one main.py files in UMC2FF_GRSL-main.
 
 ### checkpoints
 This folder is used to store the training results and a folder named `TG_SF12` is given as an example.
