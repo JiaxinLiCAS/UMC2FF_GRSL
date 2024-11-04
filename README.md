@@ -1,7 +1,7 @@
 # UMC2FF_GRSL
 Model-guided Coarse-to-fine Fusion Network for Unsupervised Hyperspectral Image Super-resolution, GRSL. (PyTorch)
 
-WeChat: BatAug 我的微信：BatAug
+# $\color{red}{我的微信(WeChat): BatAug，欢迎交流与合作}$
 
 Our paper is accepted by IEEE Geoscience and Remote Sensing Letters (GRSL). 
 More information can be found in my [Google Scholar Citations](https://scholar.google.com/citations?user=aSPDpmgAAAAJ&hl=zh-CN).
