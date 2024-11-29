@@ -3,7 +3,12 @@ Model-guided Coarse-to-fine Fusion Network for Unsupervised Hyperspectral Image 
 
 # $\color{red}{我的微信(WeChat): BatAug，欢迎交流与合作}$
 
+[Jiaxin Li](https://www.researchgate.net/profile/Li-Jiaxin-20), [Ke Zheng](https://www.researchgate.net/profile/Ke-Zheng-9), [Wengu Liu](https://civil.cqu.edu.cn/info/1323/6214.htm), [Zhi Li](https://orcid.org/0009-0004-4835-2037), [Haoyang Yu](https://orcid.org/0000-0002-4026-7450), and [Li Ni](https://orcid.org/0000-0002-9236-026X)
+
 Our paper is accepted by IEEE Geoscience and Remote Sensing Letters (GRSL). 
+
+The final version can be downloaded in my [researchgate](https://www.researchgate.net/publication/373506806_Model-guided_Coarse-to-fine_Fusion_Network_for_Unsupervised_Hyperspectral_Image_Super-resolution) or 🖼️[**PDF**](./Imgs/UMC2FF.pdf)
+
 More information can be found in my [Google Scholar Citations](https://scholar.google.com/citations?user=aSPDpmgAAAAJ&hl=zh-CN).
 
 <img src="./Imgs/fig1.png" width="666px"/>
