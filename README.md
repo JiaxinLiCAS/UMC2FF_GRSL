@@ -3,6 +3,8 @@ Model-guided Coarse-to-fine Fusion Network for Unsupervised Hyperspectral Image 
 
 # $\color{red}{我的微信(WeChat): BatAug，欢迎交流与合作}$
 
+## 本人还提出了其余多个开源的高光谱-多光谱超分融合代码，可移步至[GitHub主页下载](https://github.com/JiaxinLiCAS) 
+
 [Jiaxin Li](https://www.researchgate.net/profile/Li-Jiaxin-20), [Ke Zheng](https://www.researchgate.net/profile/Ke-Zheng-9), [Wengu Liu](https://civil.cqu.edu.cn/info/1323/6214.htm), [Zhi Li](https://orcid.org/0009-0004-4835-2037), [Haoyang Yu](https://orcid.org/0000-0002-4026-7450), and [Li Ni](https://orcid.org/0000-0002-9236-026X)
 
 Our paper is accepted by IEEE Geoscience and Remote Sensing Letters (GRSL). 
